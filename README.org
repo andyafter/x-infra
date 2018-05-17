@@ -1,3 +1,4 @@
 #+TITLE: X-Infra
 #+OPTIONS: ^:nil
 
+X-Infra provides pipelines for the distribution of the grab-x project. 
